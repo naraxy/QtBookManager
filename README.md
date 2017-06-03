@@ -1,6 +1,9 @@
 # QtBookManager
 ## 2017年6月3日完成主体程序
 
+创建于Desktop Qt5.8.0 MinGW 32bit
+完成于Desktop Qt5.9.0 MinGW 32bit
+在window 10 x64上编译通过，其他版本及系统是否通过未知
 ---
 > 业余爱好初学者一枚
 
